@@ -1,6 +1,6 @@
 {
   "Mod_Config": {
-    "isModActive": false,
+    "isModActive": true,
     "Expected_Hash": "A1B2C3D4E5F6ABC123"
   }
 }
